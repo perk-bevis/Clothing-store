@@ -49,8 +49,8 @@ const Footer = () => {
               clothing store
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              Thương hiệu đến từ Clothing store. 
+              chúc quý khách có 1 ngày đầy năng lượng ...
             </p>
           </div>
 
