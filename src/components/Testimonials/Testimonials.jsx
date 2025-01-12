@@ -4,25 +4,25 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
+    name: "davis nguyen",
     text: "Chất lượng sản phẩm tuyệt vời, thiết kế đẹp mắt và vừa vặn. Tôi rất hài lòng với dịch vụ và sẽ tiếp tục mua sắm tại đây!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Satya Nadella",
+    name: "son bevis",
     text: "Thời trang đẹp, chất lượng cao, mang lại sự thoải mái và phong cách. Tôi rất hài lòng với trải nghiệm mua sắm tại đây!",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Virat Kohli",
+    name: "nam nguyen",
     text: "Sản phẩm tuyệt vời với thiết kế tinh tế và chất lượng vượt trội. Dịch vụ chăm sóc khách hàng xuất sắc!",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
-    name: "Sachin Tendulkar",
+    name: "tung le",
     text: "Sản phẩm chất lượng cao, thiết kế đẹp mắt và phù hợp với xu hướng. Dịch vụ tuyệt vời, tôi sẽ quay lại mua sắm lần nữa!",
     img: "https://picsum.photos/103/103",
   },
